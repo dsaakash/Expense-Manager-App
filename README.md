@@ -19,4 +19,4 @@ Welcome to Expense Manager, the all-in-one solution for managing your finances c
 
 
 🌐 Sources
-(Google Play - Expense Manager:)[https://bit.ly/3T4vMwz]
+[Google Play - Expense Manager:](https://bit.ly/3T4vMwz)
